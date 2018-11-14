@@ -112,6 +112,7 @@ you can just put the link here like: ![https://en.wikipedia.org/wiki/Dog#/media/
 ## link Results folder to README.md
 [Results](/Results/README.md)
 
+[Methods](/Methods/README.md)
 
 
 
