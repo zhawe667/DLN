@@ -34,7 +34,9 @@ _This is italicised_
 
 you can combine both **bold** and *italics* by using combination of underscores and asterisk:_**This text is italicised and bold**_
 
-## line rulling
+**_how about this line?_**
+
+## line ruling
 
 you can rule lines like this:
 
@@ -46,3 +48,31 @@ ___
 or like this:
 
 ***
+
+## quotes and code blocks
+## quotes
+to add quotes, use a greater than sign:
+
+> This is a quote
+
+This is a multi-line quotes:
+
+> Here is some multiline quotes.
+> Another line
+> quotes get put on the smae line, if space allows
+
+## code blocks
+To make a code block in your text, use three backticks:
+"""
+
+install.packages("tidyverse")
+library(tidyverse)
+"""
+
+you can also have codes within your text like this: echo hello world!
+
+
+
+
+
+
