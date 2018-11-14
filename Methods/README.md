@@ -1,3 +1,3 @@
 # Methods
 
-[day1](/General_notes/day1)
+[day 1](/General_notes/day 1)
