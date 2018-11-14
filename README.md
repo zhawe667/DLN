@@ -33,3 +33,16 @@ _This is italicised_
 ## combination of both
 
 you can combine both **bold** and *italics* by using combination of underscores and asterisk:_**This text is italicised and bold**_
+
+## line rulling
+
+you can rule lines like this:
+
+---
+
+or like this:
+___
+
+or like this:
+
+***
