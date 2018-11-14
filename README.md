@@ -71,6 +71,43 @@ library(tidyverse)
 
 you can also have codes within your text like this: echo hello world!
 
+# Dignitial lab notebook
+
+## Tables
+
+You can make simple tables by using pipe symbol and minus signs:
+
+| column 1| column 2| column 3|
+|item 1| item 2| item 3|
+
+## item lists
+
+### ordered lists (automatically orderred)
+
+1. This is the first item
+    1. sub item? (leave 4 spaces to create a subitem)
+1. This is the second item
+1. This is the third item
+
+## unordered lists
+
+use either asterisk or minus sign:
+
+- item 1
+    - item 2
+- item 3
+
+## Check list
+- [ ] checked list 1
+- [x] checked list 2
+
+## Links and images
+
+you can link stuff to your document like this: [etherpad](http://pad. carpentries.org/)
+
+
+
+
 
 
 
